@@ -1,1 +1,1 @@
-Write a script that prints a number with two decimal places, followed by a new line, to be stored in NUM
+Write a script that converts a number from base 10 to base 16.
